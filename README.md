@@ -1,6 +1,13 @@
 # g9-battle-suit
 Index for all the mods related to gen 9 mods for g1r deluxe
 
+Minimum required installations: national_dex, g9-battle-engine (gen9dex), battle_forms and g9-evolutions.
+
+*battle_forms adds ways to alternate forms for rotom + gimmmicks.
+*battle engine is the combat brain for modernized combat ruels.
+*national_dex adds all the pokemon up to gen 9, move sets, combat items, learn sets, and abilities.
+*g9-evolutions adds methods and alternate methods for all modern evolutions and alternate evolutions.
+
 g9-evolutions will have the PC tool addition needed, will have a setting for on/off in case you don't want gimmicks.
 
 Item Locations & Gigantamax Guide
