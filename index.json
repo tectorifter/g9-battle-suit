@@ -22,7 +22,7 @@
       "name": "Gen 9 Battle Engine",
       "author": "tectorifter",
       "category": "Core Engine",
-      "description": "Gen 9 move attributes, flag structures, and battle mechanics.",
+      "description": "Gen 9 move logic, flag structures, and battle mechanics.",
       "url": "https://github.com/tectorifter/Gen9Dex"
     },
     {
@@ -62,7 +62,7 @@
       "name": "Gen 9 Battle Sample",
       "author": "tectorifter",
       "category": "Mechanics",
-      "description": "Reference implementation and battle hooks sample mod.",
+      "description": "Randomizer compatible with g9-battle-suit, customizable difficulty.",
       "url": "https://github.com/tectorifter/g9-battle-sample"
     }
   ]
