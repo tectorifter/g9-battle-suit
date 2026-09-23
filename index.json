@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "mods": [
+    {
+      "id": "gen1recomp-battle-forms",
+      "name": "Battle Forms",
+      "author": "sanjinpepic",
+      "category": "Core Engine",
+      "description": "Form changes, battle gimmicks, and transformation systems.",
+      "url": "https://github.com/sanjinpepic/gen1recomp-battle-forms/"
+    },
+    {
+      "id": "gen1recomp-national-dex",
+      "name": "National Dex",
+      "author": "sanjinpepic",
+      "category": "Core Engine",
+      "description": "Expanded Pokémon registry and national pokedex support.",
+      "url": "https://github.com/sanjinpepic/gen1recomp-national-dex"
+    },
+    {
+      "id": "g9-battle-engine",
+      "name": "Gen 9 Battle Engine",
+      "author": "tectorifter",
+      "category": "Core Engine",
+      "description": "Gen 9 move attributes, flag structures, and battle mechanics.",
+      "url": "https://github.com/tectorifter/Gen9Dex"
+    },
+    {
+      "id": "g9-battle-sprites",
+      "name": "Gen 9 Battle Sprites",
+      "author": "tectorifter",
+      "category": "Assets & UI",
+      "description": "Battle sprite assets and loader pipelines for Gen 9 Pokémon.",
+      "url": "https://github.com/tectorifter/g9-battle-sprites"
+    },
+    {
+      "id": "g9-gui",
+      "name": "Gen 9 GUI",
+      "author": "tectorifter",
+      "category": "Assets & UI",
+      "description": "Custom battle interface, HUD elements, and UI overlays.",
+      "url": "https://github.com/tectorifter/g9-gui"
+    },
+    {
+      "id": "g9-evolutions",
+      "name": "Gen 9 Evolutions",
+      "author": "tectorifter",
+      "category": "Mechanics",
+      "description": "Evolution triggers, item-based forms, and progression logic.",
+      "url": "https://github.com/tectorifter/g9-evolutions"
+    },
+    {
+      "id": "g9-battle-sample",
+      "name": "Gen 9 Battle Sample",
+      "author": "tectorifter",
+      "category": "Mechanics",
+      "description": "Reference implementation and battle hooks sample mod.",
+      "url": "https://github.com/tectorifter/g9-battle-sample"
+    }
+  ]
+}
