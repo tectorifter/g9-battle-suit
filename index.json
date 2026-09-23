@@ -50,6 +50,14 @@
       "url": "https://github.com/tectorifter/g9-evolutions"
     },
     {
+      "id": "g9-Battle-Scene",
+      "name": "g9-battle-scene",
+      "author": "tectorifter",
+      "category": "content",
+      "description": "custom combat scene that allow 2v2/3v3/4v1 battles and/or adds backgrounds and a modernized combat GUI.",
+      "url": "https://github.com/tectorifter/g9-battle-scenes"
+    },
+    {
       "id": "g9-battle-sample",
       "name": "Gen 9 Battle Sample",
       "author": "tectorifter",
