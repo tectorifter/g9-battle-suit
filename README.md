@@ -11,7 +11,6 @@ https://github.com/sanjinpepic/gen1recomp-battle-forms
 
 *battle engine is the combat brain for modernized combat ruels.
 https://github.com/tectorifter/Gen9Dex
-*national_dex adds all the pokemon up to gen 9, move sets, combat items, learn sets, and abilities.
 
 *g9-evolutions adds methods and alternate methods for all modern evolutions and alternate evolutions.
 https://github.com/tectorifter/g9-evolutions
