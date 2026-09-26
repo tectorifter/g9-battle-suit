@@ -27,8 +27,11 @@ https://github.com/tectorifter/g9-battle-scenes
 *g9-battle-sample, adds randomizer, many qols compatible with battle engine, shortened pokecenter heal, and many more things.
 https://github.com/tectorifter/g9-battle-sample
 
-G9-evolutions explanation:
+G9-evolutions:
 g9-evolutions will have the PC tool addition needed, will have a setting for on/off in case you don't want gimmicks.
+
+G9-boxes:
+expands gen 1 and 2 PC boxes (gen 3 is untested ground still) to 30 slots and 50 boxes.
 
 Item Locations & Gigantamax Guide
 
